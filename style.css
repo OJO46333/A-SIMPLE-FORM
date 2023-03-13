@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    width: 100%;
+}
+#body{
+    border: 1px solid black;
+    background-color: rgb(210, 189, 221);
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(71, 13, 100);
+    color: black;
+}
